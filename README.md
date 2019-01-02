@@ -1,3 +1,5 @@
+[![Travis](https://img.shields.io/badge/language-Javascript-yellow.svg)](https://www.javascript.com/)
+[![Travis](https://img.shields.io/badge/language-HTML-red.svg)](https://www.w3.org/html/)
 # cookienotsession.github.io
 Hello , I'm Cookie Chou (周秉楠)，Welcome to my personal website !
 

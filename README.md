@@ -18,3 +18,7 @@ What I do Page
 Check out my life Page
 ---
 <img src="https://i.imgur.com/E08iWfF.jpg"/>
+
+Resume Page
+---
+
